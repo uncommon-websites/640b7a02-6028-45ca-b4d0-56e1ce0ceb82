@@ -12,9 +12,9 @@
                 {/each}
             </div>
         </div>
-        <h3 class="text-xl font-bold text-white mb-3">Scale every channel</h3>
+        <h3 class="text-xl font-bold text-white mb-3">WordPress Security & Maintenance</h3>
         <p class="text-gray-400 text-sm leading-relaxed">
-          Connect and scale Slack, Microsoft Teams, Discord, portal, email, chat, forms and more with the fastest support inbox ever built.
+          24/7 monitoring, automatic updates, malware protection, and 100% site recovery guarantee. Your website stays secure, fast, and always online.
         </p>
       </div>
 
@@ -36,9 +36,9 @@
                 Negative shift
             </div>
         </div>
-        <h3 class="text-xl font-bold text-white mb-3">Understand every customer</h3>
+        <h3 class="text-xl font-bold text-white mb-3">SEO & Google Ads Management</h3>
         <p class="text-gray-400 text-sm leading-relaxed">
-          Drive product and revenue. Automatically surface product themes, customer trends, and churn signals.
+          Long-standing Google Partner with proven expertise. We optimize your local search rankings and manage cost-effective PPC campaigns that deliver results.
         </p>
       </div>
 
@@ -54,9 +54,9 @@
                  <div class="px-3 py-1 bg-green-600/20 text-green-400 border border-green-600/30 text-xs rounded font-medium">Draft reply</div>
              </div>
         </div>
-        <h3 class="text-xl font-bold text-white mb-3">Empower every team member</h3>
+        <h3 class="text-xl font-bold text-white mb-3">Performance & Infrastructure</h3>
         <p class="text-gray-400 text-sm leading-relaxed">
-          Supercharge your team with AI built for B2B. Triage queries, engage customers, and investigate technical queries with accuracy.
+          Proper server infrastructure, performance audits, and optimization. Your site loads fast, ranks better, and provides an excellent user experience.
         </p>
       </div>
 

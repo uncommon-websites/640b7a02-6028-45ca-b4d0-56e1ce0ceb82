@@ -4,15 +4,15 @@
       <!-- Text Content -->
       <div>
         <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full border border-gray-200 text-xs font-bold uppercase tracking-wide mb-6">
-          <span class="w-4 h-4 rounded-full bg-green-100 flex items-center justify-center text-green-600">A</span>
-          Ari
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="5" y="11" width="14" height="10" rx="2"/><circle cx="12" cy="16" r="1"/><path d="M8 11V7a4 4 0 0 1 8 0v4"/></svg>
+          Security First
         </div>
-        <h2 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6 tracking-tight">Act instantly</h2>
+        <h2 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6 tracking-tight">Sleep soundly at night</h2>
         <p class="text-lg text-gray-500 mb-8 leading-relaxed">
-          Ari handles the routine, the repetitive, and the ready-to-automate. Ari frees your human team for the moments that matter: complex, revenue-impacting interactions.
+          Your website is constantly monitored with 24/7 uptime tracking, automatic security updates, and malware protection. If the worst happens, our 100% site recovery guarantee means we'll get you back online with full incident analysis.
         </p>
-        <a href="#" class="inline-flex items-center text-sm font-bold text-green-500 uppercase tracking-wide hover:text-green-600">
-          Discover Ari <span class="ml-2">→</span>
+        <a href="#contact" class="inline-flex items-center text-sm font-bold text-green-500 uppercase tracking-wide hover:text-green-600">
+          Learn More <span class="ml-2">→</span>
         </a>
       </div>
 
@@ -56,8 +56,8 @@
              <div class="h-2 w-1/2 bg-red-100 rounded"></div>
              <div class="h-2 w-2/3 bg-green-100 rounded"></div>
          </div>
-         <h3 class="font-bold text-gray-900 mb-2">Deploy across any channel</h3>
-         <p class="text-sm text-gray-500">Use Ari on Slack, Teams, Discord, or email. Wherever your customers reach you, Ari is already there.</p>
+         <h3 class="font-bold text-gray-900 mb-2">24\/7 Monitoring</h3>
+         <p class="text-sm text-gray-500">Continuous uptime monitoring alerts us immediately if your site goes down, so we can fix issues before they impact your business.
       </div>
 
       <div class="bg-gray-50 rounded-xl p-6 border border-gray-100">
@@ -65,8 +65,8 @@
              <div class="px-2 py-1 border border-green-200 bg-green-50 text-green-700 text-[10px] rounded">Checking knowledge</div>
              <div class="px-2 py-1 border border-gray-200 text-gray-500 text-[10px] rounded">Help Center articles</div>
          </div>
-         <h3 class="font-bold text-gray-900 mb-2">Answers with confidence</h3>
-         <p class="text-sm text-gray-500">Add any knowledge source you choose for precision - your Plain Help Center, pricing page, developer docs, or FAQs.</p>
+         <h3 class="font-bold text-gray-900 mb-2">Automatic Updates</h3>
+         <p class="text-sm text-gray-500">WordPress core, theme, and plugin updates applied safely with full testing and backup protocols.
       </div>
 
       <div class="bg-gray-50 rounded-xl p-6 border border-gray-100">
@@ -76,8 +76,8 @@
                  <div class="text-xs font-bold text-gray-700">Threads handled</div>
              </div>
          </div>
-         <h3 class="font-bold text-gray-900 mb-2">Engage rather than deflect</h3>
-         <p class="text-sm text-gray-500">Ari is built for B2B. It engages with customers, triages for you, and escalates to your team when unsure.</p>
+         <h3 class="font-bold text-gray-900 mb-2">100% Recovery Guarantee</h3>
+         <p class="text-sm text-gray-500">If your site gets hacked, we'll restore it completely and analyze the incident to prevent future attacks.
       </div>
     </div>
   </div>
